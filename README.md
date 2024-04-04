@@ -1,1 +1,1 @@
-# Maximilian-Schwarzm-ller-React-course-projects
+# Maximilian-Schwarzmuller-React-course-projects
